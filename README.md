@@ -1,5 +1,5 @@
 ### 안녕하세요 성장하는 개발자 이주애입니다.👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejuae)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejuae&count_bg=%23BCBCBC&title_bg=%23FFB3B3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **leejuae/leejuae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
