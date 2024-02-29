@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=leejuae&show_icons=true&hide_border=true)](https://github.com/leejuae)
+[![github stats](https://github-readme-stats.vercel.app/api?username=leejuae&show_icons=true&hide_border=true&thema=prussian)](https://github.com/leejuae)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejuae&layout=compact)](https://github.com/leejuae)
 
 <!--
